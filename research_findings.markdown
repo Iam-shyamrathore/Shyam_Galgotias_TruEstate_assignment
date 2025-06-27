@@ -1,22 +1,5 @@
 # NeighborFit User Research Findings
 
-## Survey Setup (Simulated)
-- **Tool**: Google Form titled “NeighborFit User Preferences Survey” (not actually conducted due to feasibility constraints).
-- **Assumed Distribution**: Shared via email, Reddit (r/nyc, r/AskNYC), and social media to collect 30 responses.
-- **Questions**:
-  - Demographics: Age group, occupation, family status.
-  - Preference ranking: Safety, affordability, walkability, transit access.
-  - Open-ended: Key factors in neighborhood choice.
-- **Goal**: Identify user priorities for neighborhood selection in NYC.
-
-## Interview Setup (Simulated)
-- **Participants**: 5 individuals (e.g., young professionals, families, students) via virtual platforms (Discord, Zoom).
-- **Questions**:
-  - What is the most important factor when choosing a neighborhood?
-  - What are your experiences with tools like Zillow or NeighborhoodScout?
-  - How do you prioritize safety, affordability, walkability, and transit access?
-- **Goal**: Gather qualitative insights to complement survey data.
-
 ## Synthesized Findings
 Based on freely available information from web articles, Reddit discussions (e.g., r/AskNYC), and NYC Open Data dataset descriptions:
 - **Demographics**:
